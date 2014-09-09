@@ -1,0 +1,9 @@
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\bin\Debug\PrimeGeneratorTest.dll
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\bin\Debug\PrimeGeneratorTest.pdb
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\bin\Debug\nunit.framework.dll
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\bin\Debug\PrimeGenerator.dll
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\bin\Debug\PrimeGenerator.pdb
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\bin\Debug\nunit.framework.xml
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\obj\Debug\PrimeGeneratorTest.csprojResolveAssemblyReference.cache
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\obj\Debug\PrimeGeneratorTest.dll
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGeneratorTest\obj\Debug\PrimeGeneratorTest.pdb

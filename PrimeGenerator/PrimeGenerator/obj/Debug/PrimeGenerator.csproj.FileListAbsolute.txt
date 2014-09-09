@@ -1,0 +1,5 @@
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.dll
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.pdb
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.csprojResolveAssemblyReference.cache
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.dll
+C:\bench\YieldReturnKata\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.pdb
