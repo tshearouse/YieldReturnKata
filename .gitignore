@@ -1,0 +1,53 @@
+ # User specific files
+*.suo #Solution User Options file
+*.user #Visual Studio user specific settings
+*.sln.docstates #User specific document states.
+**.suo
+*.userprefs
+*.csproj.user
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Resharper files
+*.DotSettings
+*.[Rr]e[Ss]harper.user
+*_Resharper*
+*.DotSettings.user
+*.sln.cache
+
+# DotCover
+*.dotCover
+
+
+# Araxis Merge
+*.orig
+
+# Resources
+*.resources
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults/
+*/[Tt]est[Rr]esults/
+[Tt]est-[Rr]esults/
+
+# NCrunch
+*.ncrunchsolution
+*.ncrunchproject
+/_[Nn][Cc]runch_*/
+
+#Misc
+[Pp]ackages/
+*.vsmdi					# test settings file
+*.tlog					# transaction log files
+*.opensdf					# standard database file
+*.ncb					# intellisense cache
+*.sdf						# database
+*.cache
+*.log
+*.dll
+*.pdb
