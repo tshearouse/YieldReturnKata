@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using System.Linq;
+using NUnit.Framework;
 using PrimeGenerator;
 
 namespace PrimeGeneratorTest
@@ -6,7 +7,7 @@ namespace PrimeGeneratorTest
     [TestFixture]
     public class PrimeTesterTest
     {
-        PrimeTester _primeTester = new PrimeTester();
+        readonly PrimeTester _primeTester = new PrimeTester();
 
         [Test]
         public void Given0WhenIsPrimeShouldReturnFalse()
@@ -41,6 +42,23 @@ namespace PrimeGeneratorTest
         {
             bool isPrime = _primeTester.IsPrime(911);
             Assert.IsTrue(isPrime);
+        }
+
+        [Test]
+        public void Given8Through10WhenGetPrimesShouldReturnEmptyList()
+        {
+            var primes = _primeTester.GetPrimes(8, 10);
+            Assert.IsEmpty(primes);
+        }
+
+        [Test]
+        public void Given10Through15WhenGetPrimesShouldReturn11And13()
+        {
+            var primes = _primeTester.GetPrimes(10, 15);
+
+            Assert.AreEqual(2, primes.Count());
+            Assert.AreEqual(11, primes.First());
+            Assert.AreEqual(13, primes.Last());
         }
     }
 }
